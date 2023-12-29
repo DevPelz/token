@@ -19,7 +19,7 @@ sender: token = token {
 };
 
 receiver: address = aleo1mgfq6g40l6zkhsm063n3uhr43qk5e0zsua5aszeq5080dsvlcvxsn0rrau;
-amount: u64 = 400u64;
+
 
 [transfer_private_to_public]
 sender: token = token {
